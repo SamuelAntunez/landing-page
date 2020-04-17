@@ -4,7 +4,7 @@ Pagina web realizada con bootstrap
 
 ## GitHub Page
 
-Puedes apreciar la web final a través de [Página Web](https://samuelantunez.github.io/bootstrap-web/)
+Puedes apreciar la web final a través de [Página Web](https://samuelantunez.github.io/landing-page/)
 
 <img src="img/screenshot 1.jpg" width="900px;"/>
 <img src="img/Screenshot_1.jpg" width="900px;"/>
@@ -22,10 +22,10 @@ Para este proyecto se utilizarón las siguientes herramientas
 
 ## Instalación
 
-[Descargamos](https://github.com/SamuelAntunez/Landing-Page-with-bootstrap/archive/master.zip) o clonamos el proyecto a través del siguiente comando
+[Descargamos](https://github.com/SamuelAntunez/landing-page/archive/gh-pages.zip) o clonamos el proyecto a través del siguiente comando
 
 ```
-git clone https://github.com/SamuelAntunez/Landing-Page-with-bootstrap.git
+git clone https://github.com/SamuelAntunez/landing-page.git
 ```
 ## Version
 
