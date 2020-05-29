@@ -4,7 +4,7 @@ Pagina web realizada con bootstrap
 
 ## GitHub Page
 
-Puedes apreciar la web final a través de [Página Web](https://samuelantunez.github.io/bootstrap-web/)
+Puedes apreciar la web final a través de [Página Web](https://samuelantunez.github.io/landing-page/)
 
 <img src="img/screenshot 1.jpg" width="900px;"/>
 <img src="img/Screenshot_1.jpg" width="900px;"/>
